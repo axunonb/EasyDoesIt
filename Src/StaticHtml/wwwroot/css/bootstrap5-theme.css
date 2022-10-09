@@ -1,0 +1,56 @@
+﻿[role=main] {
+    width: 1180px;
+    padding: 0;
+}
+
+body {
+    background-color: #C4CACF;
+}
+
+hr {
+    border-top: 2px solid #444444;
+}
+
+nav.bg-dark, div.bg-dark {
+    background-color: #444444 !important;
+}
+
+.bg-color {
+    background-color: #F8F9FA !important;
+}
+
+navbar {
+    right: 0;
+    left: 0;
+}
+
+.btn-danger {
+    background-color: #C14150 !important;
+}
+
+.modal-content {
+    background-color: #F8F9FA;
+}
+
+.link-footer {
+    color: #D0D0D0 !important;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+h1 {
+    color: #C14150 !important;
+}
+
+/* Make the anchor tag skip the height of the fixed-top navigation */
+a[id] {
+    padding-top: 50px;
+    margin-top: -50px
+}
+
+/* override the width for the "sm" breakpoint */
+@media (max-width: 992px) {
+    .container {
+        width: 100%;
+    }
+}
