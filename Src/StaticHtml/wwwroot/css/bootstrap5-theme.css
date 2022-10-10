@@ -52,5 +52,6 @@ a[id] {
 @media (max-width: 992px) {
     .container {
         width: 100%;
+        padding: 3px;
     }
 }
