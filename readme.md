@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/axunonb/EasyDoesIt/main/Src/StaticHtml/wwwroot/img/logo.svg?token=GHSAT0AAAAAABUAFEB4YGDZHL3IKB6RRDGIY4BLZWQ" height=50 alt="easy- does it" />
+<img src="https://raw.githubusercontent.com/axunonb/EasyDoesIt/main/Src/StaticHtml/wwwroot/img/easy-does-it-logo.svg?token=GHSAT0AAAAAABUAFEB4YGDZHL3IKB6RRDGIY4BLZWQ" height=50 alt="easy- does it" />
 
 # easy does it - choir website
 
@@ -7,10 +7,6 @@
 ## About this project
 This is the source code for a choir website. It is currently realized with pure HTML and CSS using Bootstrap 5.
 
-## Live website
-Have a look at the website: [https://www.easy-does-it.de/](https://www.easy-does-it.de/)
+## Website
+Have a look at the website: [https://easy-does-it.vercel.app/](https://easy-does-it.vercel.app/)
 
-## Sponsors
-Special thanks for hosting the live website:
-
-[![License: MIT](https://www.datocms-assets.com/31049/1618983297-powered-by-vercel.svg)](https://vercel.com/?utm_source=axuno&utm_campaign=oss)
